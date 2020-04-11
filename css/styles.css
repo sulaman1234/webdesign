@@ -1,0 +1,197 @@
+body{
+  margin: 0;
+text-align: center;
+font-family: 'Shrikhand', cursive;
+}
+h1{
+  font-family: 'Shrikhand', cursive;
+  margin-top:  100px;
+  width: 10%;
+display: inline;
+color:#66BFBF;
+font-size: 2.5rem;
+line-height: 2;
+}
+h2{
+  font-family: 'Shadows Into Light', cursive;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 2;
+}
+h3{
+  font-family: 'Shadows Into Light', cursive;
+  color:  #1F6650;
+}
+.top-container
+{
+
+  background-color: #AACFCF;
+  position: relative;
+  padding-top: 100px;
+
+}
+.middle-container
+{
+padding-top: 50px;
+margin: 0 auto;
+background-color: grey;
+
+
+}
+.bottom-cloud
+{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+.high{
+  position: absolute;
+  left: 620px;
+  top: 710px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  color:  #1F6650;
+}
+.paragraph{
+  padding-top: 50px;
+  padding-bottom:70px;
+  color:  #1F6650;
+}
+.line{
+  border: dashed;
+  width: 5%;
+   color: white;
+   height: 1px;
+}
+.top-cloud{
+  position: absolute;
+  right: 350px;
+  top: 30px;
+}
+.bottom-container
+{
+  background-color:#DEE3E2;
+  margin-top: -10px;
+padding-top: 70px;
+
+
+}
+.salman-img{
+  height: 150px;
+   width: 150px;
+   border-radius: 100%;
+   margin: 5px auto;
+
+}
+.lane{
+  border: dashed;
+  width: 5%;
+   color: grey;
+   height: 1px;
+}
+.laptop-img
+{
+  height: 150px;
+   width: 150px;
+   border-radius:
+   100%;
+   position: absolute;
+   left: 400px;
+   top: 1250px;
+}
+.what{
+  margin-left: 250;
+  color:  #1F6650;
+}
+.develop{
+  margin-left: 350px;
+  margin-top: 50px;
+  font-size: 1.5rem;
+  color:   #11999E;
+}
+.para{
+  margin-left: 350px;
+  padding-top: 5px;
+  color:  #1F6650;
+
+}
+.myclass{
+
+  position: relative;
+  left: -300px;
+  top: 50px;
+  color:   #11999E;
+
+}
+.mypara{
+  position: relative;
+  left: -300px;
+  top: 65px;
+  color: #1F6650;
+}
+.down{
+  height: 150px;
+   width: 150px;
+   border-radius: 100%;
+   position: relative;
+   left: 100px;
+   top: -85px;
+}
+.forth-container{
+  margin-top: -7px;
+  padding-top: 70px;
+  background-color: grey;
+
+
+
+}
+.forth{
+  margin-top: 50px;
+color:  #1F6650;
+}
+.love{
+    margin-top: 25px;
+    color:  #1F6650;
+}
+button{
+  width: 150px;
+  height: 50px;
+  margin-top: 30px;
+  margin-bottom: 70px;
+  background-color: #1F6650;
+  border-radius: 20px;
+  font-size: 15px;
+  color: #ffff;
+  border: solid 0px;
+}
+button:hover{
+  background-color: #AACFCF;
+  color:#511845;
+}
+.last-container{
+  background-color: #363636;
+  padding-top: 70px;
+  margin-bottom: -50px;
+
+}
+a{
+  color:#DEE3E2;
+  text-decoration: none;
+  margin: auto 40px auto;
+
+}
+a:hover{
+color:  #C70039;
+}
+.copy{
+  color:#DEE3E2;
+
+  margin: 20px auto 2px;
+
+
+}
+.copy:hover
+{
+color:  #C70039;
+}
